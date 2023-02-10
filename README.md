@@ -1,4 +1,3 @@
-# Java-OOP-Homework7
 Домашнее задание по Java-OOP к семинару № 7 
 
 
